@@ -1,0 +1,11 @@
+body{
+    background-image: url("bg5.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#ocanvas{
+    border-width: 12px;
+    background-color:rgb(222, 253, 222);
+    border-style: double;
+}
